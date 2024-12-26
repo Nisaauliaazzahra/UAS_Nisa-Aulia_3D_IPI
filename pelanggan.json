@@ -1,0 +1,2 @@
+{"_id":{"$oid":"676cab2fb4a59c66fffe6911"},"id":9,"nama":"lala","umur":20,"jenis kelamin":"perempuan","email":"lala.gmail.com","nomer telpon":877798989,"tanggal pembuatan ":"18 agustus"}
+{"_id":{"$oid":"676cab2fb4a59c66fffe6912"},"id":8,"nama":"ivan","umur":17,"jenis kelamin":"laki laki","email":"ivan.gmail.com","nomer telpon":87899990,"tanggal pembuatan":"10 oktober"}
